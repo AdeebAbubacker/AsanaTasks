@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91884\\OneDrive\\Desktop\\Dotnet\\AsanaTasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D909D8CD-CA71-4660-B0C2-B45CA863A103}|AsanaTasks\\AsanaTasks.csproj|c:\\users\\91884\\onedrive\\desktop\\dotnet\\asanatasks\\asanatasks\\firebase\\firebaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D909D8CD-CA71-4660-B0C2-B45CA863A103}|AsanaTasks\\AsanaTasks.csproj|solutionrelative:asanatasks\\firebase\\firebaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D909D8CD-CA71-4660-B0C2-B45CA863A103}|AsanaTasks\\AsanaTasks.csproj|c:\\users\\91884\\onedrive\\desktop\\dotnet\\asanatasks\\asanatasks\\service\\pushnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D909D8CD-CA71-4660-B0C2-B45CA863A103}|AsanaTasks\\AsanaTasks.csproj|solutionrelative:asanatasks\\service\\pushnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D909D8CD-CA71-4660-B0C2-B45CA863A103}|AsanaTasks\\AsanaTasks.csproj|c:\\users\\91884\\onedrive\\desktop\\dotnet\\asanatasks\\asanatasks\\notifications\\taskduereminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D909D8CD-CA71-4660-B0C2-B45CA863A103}|AsanaTasks\\AsanaTasks.csproj|solutionrelative:asanatasks\\notifications\\taskduereminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D909D8CD-CA71-4660-B0C2-B45CA863A103}|AsanaTasks\\AsanaTasks.csproj|c:\\users\\91884\\onedrive\\desktop\\dotnet\\asanatasks\\asanatasks\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D909D8CD-CA71-4660-B0C2-B45CA863A103}|AsanaTasks\\AsanaTasks.csproj|solutionrelative:asanatasks\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D909D8CD-CA71-4660-B0C2-B45CA863A103}|AsanaTasks\\AsanaTasks.csproj|c:\\users\\91884\\onedrive\\desktop\\dotnet\\asanatasks\\asanatasks\\dtos\\auth\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D909D8CD-CA71-4660-B0C2-B45CA863A103}|AsanaTasks\\AsanaTasks.csproj|solutionrelative:asanatasks\\dtos\\auth\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D909D8CD-CA71-4660-B0C2-B45CA863A103}|AsanaTasks\\AsanaTasks.csproj|c:\\users\\91884\\onedrive\\desktop\\dotnet\\asanatasks\\asanatasks\\dtos\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D909D8CD-CA71-4660-B0C2-B45CA863A103}|AsanaTasks\\AsanaTasks.csproj|solutionrelative:asanatasks\\dtos\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D909D8CD-CA71-4660-B0C2-B45CA863A103}|AsanaTasks\\AsanaTasks.csproj|c:\\users\\91884\\onedrive\\desktop\\dotnet\\asanatasks\\asanatasks\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D909D8CD-CA71-4660-B0C2-B45CA863A103}|AsanaTasks\\AsanaTasks.csproj|solutionrelative:asanatasks\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D909D8CD-CA71-4660-B0C2-B45CA863A103}|AsanaTasks\\AsanaTasks.csproj|c:\\users\\91884\\onedrive\\desktop\\dotnet\\asanatasks\\asanatasks\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D909D8CD-CA71-4660-B0C2-B45CA863A103}|AsanaTasks\\AsanaTasks.csproj|solutionrelative:asanatasks\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D909D8CD-CA71-4660-B0C2-B45CA863A103}|AsanaTasks\\AsanaTasks.csproj|c:\\users\\91884\\onedrive\\desktop\\dotnet\\asanatasks\\asanatasks\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D909D8CD-CA71-4660-B0C2-B45CA863A103}|AsanaTasks\\AsanaTasks.csproj|solutionrelative:asanatasks\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D909D8CD-CA71-4660-B0C2-B45CA863A103}|AsanaTasks\\AsanaTasks.csproj|c:\\users\\91884\\onedrive\\desktop\\dotnet\\asanatasks\\asanatasks\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D909D8CD-CA71-4660-B0C2-B45CA863A103}|AsanaTasks\\AsanaTasks.csproj|solutionrelative:asanatasks\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D909D8CD-CA71-4660-B0C2-B45CA863A103}|AsanaTasks\\AsanaTasks.csproj|c:\\users\\91884\\onedrive\\desktop\\dotnet\\asanatasks\\asanatasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D909D8CD-CA71-4660-B0C2-B45CA863A103}|AsanaTasks\\AsanaTasks.csproj|solutionrelative:asanatasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D909D8CD-CA71-4660-B0C2-B45CA863A103}|AsanaTasks\\AsanaTasks.csproj|c:\\users\\91884\\onedrive\\desktop\\dotnet\\asanatasks\\asanatasks\\asanatasks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D909D8CD-CA71-4660-B0C2-B45CA863A103}|AsanaTasks\\AsanaTasks.csproj|solutionrelative:asanatasks\\asanatasks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskDueReminderService.cs",
+              "DocumentMoniker": "C:\\Users\\91884\\OneDrive\\Desktop\\Dotnet\\AsanaTasks\\AsanaTasks\\Notifications\\TaskDueReminderService.cs",
+              "RelativeDocumentMoniker": "AsanaTasks\\Notifications\\TaskDueReminderService.cs",
+              "ToolTip": "C:\\Users\\91884\\OneDrive\\Desktop\\Dotnet\\AsanaTasks\\AsanaTasks\\Notifications\\TaskDueReminderService.cs",
+              "RelativeToolTip": "AsanaTasks\\Notifications\\TaskDueReminderService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAwwEQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T06:16:07.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PushNotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\91884\\OneDrive\\Desktop\\Dotnet\\AsanaTasks\\AsanaTasks\\Service\\PushNotificationService.cs",
+              "RelativeDocumentMoniker": "AsanaTasks\\Service\\PushNotificationService.cs",
+              "ToolTip": "C:\\Users\\91884\\OneDrive\\Desktop\\Dotnet\\AsanaTasks\\AsanaTasks\\Service\\PushNotificationService.cs",
+              "RelativeToolTip": "AsanaTasks\\Service\\PushNotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T05:49:57.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FirebaseInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\91884\\OneDrive\\Desktop\\Dotnet\\AsanaTasks\\AsanaTasks\\Firebase\\FirebaseInitializer.cs",
+              "RelativeDocumentMoniker": "AsanaTasks\\Firebase\\FirebaseInitializer.cs",
+              "ToolTip": "C:\\Users\\91884\\OneDrive\\Desktop\\Dotnet\\AsanaTasks\\AsanaTasks\\Firebase\\FirebaseInitializer.cs",
+              "RelativeToolTip": "AsanaTasks\\Firebase\\FirebaseInitializer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAA4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T05:47:56.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\91884\\OneDrive\\Desktop\\Dotnet\\AsanaTasks\\AsanaTasks\\DTOs\\Auth\\RegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "AsanaTasks\\DTOs\\Auth\\RegisterRequestDto.cs",
+              "ToolTip": "C:\\Users\\91884\\OneDrive\\Desktop\\Dotnet\\AsanaTasks\\AsanaTasks\\DTOs\\Auth\\RegisterRequestDto.cs",
+              "RelativeToolTip": "AsanaTasks\\DTOs\\Auth\\RegisterRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T06:06:58.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\91884\\OneDrive\\Desktop\\Dotnet\\AsanaTasks\\AsanaTasks\\DTOs\\Auth\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "AsanaTasks\\DTOs\\Auth\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\91884\\OneDrive\\Desktop\\Dotnet\\AsanaTasks\\AsanaTasks\\DTOs\\Auth\\LoginRequestDto.cs",
+              "RelativeToolTip": "AsanaTasks\\DTOs\\Auth\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T06:06:47.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\91884\\OneDrive\\Desktop\\Dotnet\\AsanaTasks\\AsanaTasks\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AsanaTasks\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\91884\\OneDrive\\Desktop\\Dotnet\\AsanaTasks\\AsanaTasks\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AsanaTasks\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAcwDcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T05:48:54.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\91884\\OneDrive\\Desktop\\Dotnet\\AsanaTasks\\AsanaTasks\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AsanaTasks\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\91884\\OneDrive\\Desktop\\Dotnet\\AsanaTasks\\AsanaTasks\\appsettings.Development.json",
+              "RelativeToolTip": "AsanaTasks\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-29T06:02:17.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\91884\\OneDrive\\Desktop\\Dotnet\\AsanaTasks\\AsanaTasks\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AsanaTasks\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\91884\\OneDrive\\Desktop\\Dotnet\\AsanaTasks\\AsanaTasks\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AsanaTasks\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T06:02:13.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\91884\\OneDrive\\Desktop\\Dotnet\\AsanaTasks\\AsanaTasks\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AsanaTasks\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\91884\\OneDrive\\Desktop\\Dotnet\\AsanaTasks\\AsanaTasks\\Models\\User.cs",
+              "RelativeToolTip": "AsanaTasks\\Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T05:52:34.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\91884\\OneDrive\\Desktop\\Dotnet\\AsanaTasks\\AsanaTasks\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "AsanaTasks\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\91884\\OneDrive\\Desktop\\Dotnet\\AsanaTasks\\AsanaTasks\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "AsanaTasks\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T05:50:59.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91884\\OneDrive\\Desktop\\Dotnet\\AsanaTasks\\AsanaTasks\\Program.cs",
+              "RelativeDocumentMoniker": "AsanaTasks\\Program.cs",
+              "ToolTip": "C:\\Users\\91884\\OneDrive\\Desktop\\Dotnet\\AsanaTasks\\AsanaTasks\\Program.cs",
+              "RelativeToolTip": "AsanaTasks\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T05:48:19.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AsanaTasks.csproj",
+              "DocumentMoniker": "C:\\Users\\91884\\OneDrive\\Desktop\\Dotnet\\AsanaTasks\\AsanaTasks\\AsanaTasks.csproj",
+              "RelativeDocumentMoniker": "AsanaTasks\\AsanaTasks.csproj",
+              "ToolTip": "C:\\Users\\91884\\OneDrive\\Desktop\\Dotnet\\AsanaTasks\\AsanaTasks\\AsanaTasks.csproj",
+              "RelativeToolTip": "AsanaTasks\\AsanaTasks.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-29T05:47:35.042Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

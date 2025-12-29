@@ -1,0 +1,9 @@
+firebase-admin.json 
+.config/ 
+.git-credentials 
+appsettings.Development.json 
+appsettings.json 
+bin/ 
+obj/ 
+*.user 
+*.log 
